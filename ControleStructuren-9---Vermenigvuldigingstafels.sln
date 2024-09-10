@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleStructuren-9---Vermenigvuldigingstafels", "ControleStructuren-9---Vermenigvuldigingstafels\ControleStructuren-9---Vermenigvuldigingstafels.csproj", "{05230BB8-5782-4332-BA77-0BFB6E4B5BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05230BB8-5782-4332-BA77-0BFB6E4B5BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05230BB8-5782-4332-BA77-0BFB6E4B5BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05230BB8-5782-4332-BA77-0BFB6E4B5BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05230BB8-5782-4332-BA77-0BFB6E4B5BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917F9679-010B-44B0-8071-6D821886693B}
+	EndGlobalSection
+EndGlobal
